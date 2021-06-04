@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### 🌱 I am currently studying in the Information Retrieval Laboratory of Shandong University
 
-#### ✨ My research direction is Natural language processing, Information retrieval
+#### ✨ I am working on Natural language processing, Information retrieval
 
 #### 👯 My website: https://eternal-sun.blog.csdn.net/
 
