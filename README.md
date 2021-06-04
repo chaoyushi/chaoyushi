@@ -1,11 +1,11 @@
 ### Hi there 👋
-#### 🌱 I am currently studying in the Information Retrieval Laboratory of Shandong University
+- 🌱 I am currently studying in the Information Retrieval Laboratory of Shandong University
 
-#### ✨ I am working on Natural language processing, Information retrieval
+- ✨ I am working on Natural language processing, Information retrieval
 
-#### 👯 My website: https://eternal-sun.blog.csdn.net/
+- 👯 My website: https://eternal-sun.blog.csdn.net/
 
-#### 💬 Ask me about s2197478269@outlook.com
+- 💬 Connect with me here: s2197478269@outlook.com
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
