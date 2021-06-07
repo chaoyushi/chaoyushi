@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Chaoyu Shi
 - 🌱 I am currently studying in the **Information Retrieval Laboratory** of **Shandong University**
 
 - ✨ I am working on **Natural language processing** and **Information retrieval**
 
-- 👯 My website: https://eternal-sun.blog.csdn.net/
+- 👯 My homepage: https://chaoyushi.github.io/
+
+- 🤔 My blog: https://eternal-sun.blog.csdn.net/
 
 - 💬 Connect with me here: s2197478269@outlook.com
 - 🚀 I use daily:
