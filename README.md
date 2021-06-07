@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm Chaoyu Shi
+
+- ![](https://visitor-badge.glitch.me/badge?page_id=chaoyushi.readme)
+
+- ![](http://antzuhl.cn:4000/get/@chaoyushi.readme)
+
 - 🌱 I am currently studying in the **Information Retrieval Laboratory** of **Shandong University**
 
 - ✨ I am working on **Natural language processing** and **Information retrieval**
