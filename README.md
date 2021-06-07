@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Chaoyu Shi
+### Hi there 👋 I'm Chaoyu Shi 
+![](https://visitor-badge.glitch.me/badge?page_id=chaoyushi.readme)
 
-- ![](https://visitor-badge.glitch.me/badge?page_id=chaoyushi.readme)
 
 - 🌱 I am currently studying in the **Information Retrieval Laboratory** of **Shandong University**
 
@@ -26,6 +26,8 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)  
+
+
 
 [![chaoyushi's github stats](https://github-readme-stats.vercel.app/api?username=chaoyushi)](https://github.com/chaoyushi/github-readme-stats)
 <!--
