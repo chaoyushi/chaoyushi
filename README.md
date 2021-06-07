@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=chaoyushi.readme)
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://eternal-sun.blog.csdn.net/)
 [![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-green)](https://cloud.tencent.com/developer/user/7969553)
-
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 🌱 I am currently studying in the **Information Retrieval Laboratory** of **Shandong University**
 
 - ✨ I am working on **Natural language processing** and **Information retrieval**
